@@ -1,0 +1,16 @@
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.exe
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.deps.json
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.dll
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\ref\Course.dll
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\bin\Debug\net5.0\Course.pdb
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.dll
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\ref\Course.dll
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.pdb
+E:\projetos\Curso\Upcasting e Downcasting\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
